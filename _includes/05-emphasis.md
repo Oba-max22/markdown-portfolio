@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I know a few programming languages including **Python**, *Java*, **Javascript**, HTML and CSS.
+I also use a back-end framework called **django**.
+I use *github* for version control.
+I use **Figma** for making UI designs.
+I know syntax for SQL database(MYSQL).
