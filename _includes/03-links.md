@@ -1,1 +1,1 @@
-![Checkout my github profile](https://github.com/Oba-max22/)
+[Checkout my github profile](https://github.com/Oba-max22/)
